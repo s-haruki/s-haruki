@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ...
- - Web Frontend programmer
+  - Web Frontend programmer
 - 🌱 I’m currently learning ...
-  - (nope, because I'm a new for university.)
+  - (nope, I'm a new for university.)
